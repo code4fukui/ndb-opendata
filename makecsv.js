@@ -39,5 +39,6 @@ items.forEach(i => {
   i.title = i.title.substring(0, n).trim();
 });
 
+// 一覧をCSVファイルとして保存
 console.log(items, items.length);
 await Deno.writeTextFile("ndb-opendata-09.csv", CSV.stringify(items));
