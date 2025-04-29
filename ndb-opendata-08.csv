@@ -1,0 +1,308 @@
+﻿category1,category2,title,url,size
+医科診療行為,A基本診療料,初再診料_性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122068.xlsx,64KB
+医科診療行為,A基本診療料,初再診料_都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122069.xlsx,74KB
+医科診療行為,A基本診療料,初再診料_診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122070.xlsx,44KB
+医科診療行為,A基本診療料,初再診料_二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122071.xlsx,291KB
+医科診療行為,A基本診療料,短期滞在手術等基本料_性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122072.xlsx,30KB
+医科診療行為,A基本診療料,短期滞在手術等基本料_都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122073.xlsx,32KB
+医科診療行為,A基本診療料,短期滞在手術等基本料_診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122074.xlsx,25KB
+医科診療行為,A基本診療料,短期滞在手術等基本料_二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122075.xlsx,78KB
+医科診療行為,A基本診療料,特定入院料_性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122076.xlsx,149KB
+医科診療行為,A基本診療料,特定入院料_都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122077.xlsx,172KB
+医科診療行為,A基本診療料,特定入院料_診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122078.xlsx,84KB
+医科診療行為,A基本診療料,特定入院料_二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122116.xlsx,674KB
+医科診療行為,A基本診療料,入院基本料_性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122080.xlsx,96KB
+医科診療行為,A基本診療料,入院基本料_都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122081.xlsx,110KB
+医科診療行為,A基本診療料,入院基本料_診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122082.xlsx,57KB
+医科診療行為,A基本診療料,入院基本料_二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122083.xlsx,418KB
+医科診療行為,A基本診療料,入院基本料等加算_性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122084.xlsx,78KB
+医科診療行為,A基本診療料,入院基本料等加算_都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122085.xlsx,89KB
+医科診療行為,A基本診療料,入院基本料等加算_診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122086.xlsx,48KB
+医科診療行為,A基本診療料,入院基本料等加算_二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122087.xlsx,335KB
+医科診療行為,B医学管理等,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122088.xlsx,118KB
+医科診療行為,B医学管理等,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122089.xlsx,141KB
+医科診療行為,B医学管理等,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122090.xlsx,70KB
+医科診療行為,B医学管理等,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122091.xlsx,623KB
+医科診療行為,C在宅医療,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122092.xlsx,124KB
+医科診療行為,C在宅医療,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122093.xlsx,145KB
+医科診療行為,C在宅医療,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122094.xlsx,70KB
+医科診療行為,C在宅医療,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122095.xlsx,623KB
+医科診療行為,D検査,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122096.xlsx,778KB
+医科診療行為,D検査,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122097.xlsx,906KB
+医科診療行為,D検査,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122098.xlsx,362KB
+医科診療行為,D検査,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122099.xlsx,4.5MB
+医科診療行為,E画像診断,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122100.xlsx,117KB
+医科診療行為,E画像診断,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122101.xlsx,134KB
+医科診療行為,E画像診断,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122102.xlsx,67KB
+医科診療行為,E画像診断,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122103.xlsx,576KB
+医科診療行為,F投薬,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122104.xlsx,41KB
+医科診療行為,F投薬,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122105.xlsx,45KB
+医科診療行為,F投薬,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122106.xlsx,32KB
+医科診療行為,F投薬,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122107.xlsx,141KB
+医科診療行為,G注射,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122108.xlsx,55KB
+医科診療行為,G注射,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122109.xlsx,62KB
+医科診療行為,G注射,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122110.xlsx,39KB
+医科診療行為,G注射,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122111.xlsx,222KB
+医科診療行為,Hリハビリテーション,性年齢別算定回数／単位数,https://www.mhlw.go.jp/content/12400000/001122112.xlsx,63KB
+医科診療行為,Hリハビリテーション,都道府県別算定回数／単位数,https://www.mhlw.go.jp/content/12400000/001122113.xlsx,70KB
+医科診療行為,Hリハビリテーション,診療月別算定回数／単位数,https://www.mhlw.go.jp/content/12400000/001122114.xlsx,47KB
+医科診療行為,Hリハビリテーション,二次医療圏別算定回数／単位数,https://www.mhlw.go.jp/content/12400000/001122115.xlsx,223KB
+医科診療行為,I精神科専門療法,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122117.xlsx,74KB
+医科診療行為,I精神科専門療法,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122118.xlsx,82KB
+医科診療行為,I精神科専門療法,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122119.xlsx,48KB
+医科診療行為,I精神科専門療法,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122120.xlsx,301KB
+医科診療行為,J処置,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122121.xlsx,218KB
+医科診療行為,J処置,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122122.xlsx,254KB
+医科診療行為,J処置,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122123.xlsx,116KB
+医科診療行為,J処置,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122124.xlsx,1.2MB
+医科診療行為,K手術,款別性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122125.xlsx,840KB
+医科診療行為,K手術,款別都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122126.xlsx,995KB
+医科診療行為,K手術,款別診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122127.xlsx,443KB
+医科診療行為,K手術,款別二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122128.xlsx,4.7MB
+医科診療行為,K輸血料,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122129.xlsx,45KB
+医科診療行為,K輸血料,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122131.xlsx,49KB
+医科診療行為,K輸血料,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122132.xlsx,34KB
+医科診療行為,K輸血料,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122133.xlsx,151KB
+医科診療行為,L麻酔,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122161.xlsx,88KB
+医科診療行為,L麻酔,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122162.xlsx,100KB
+医科診療行為,L麻酔,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122163.xlsx,54KB
+医科診療行為,L麻酔,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122164.xlsx,414KB
+医科診療行為,M放射線治療,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122165.xlsx,60KB
+医科診療行為,M放射線治療,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122166.xlsx,68KB
+医科診療行為,M放射線治療,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122167.xlsx,41KB
+医科診療行為,M放射線治療,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122168.xlsx,226KB
+医科診療行為,N病理診断,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122173.xlsx,46KB
+医科診療行為,N病理診断,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122174.xlsx,51KB
+医科診療行為,N病理診断,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122175.xlsx,34KB
+医科診療行為,N病理診断,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122176.xlsx,162KB
+医科診療行為,クロス表,【初診】都道府県性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122179.xlsx,47KB
+医科診療行為,クロス表,【再診】都道府県性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122180.xlsx,42KB
+医科診療行為,クロス表,【外来診療料】都道府県性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122183.xlsx,42KB
+医科診療行為,クロス表,【検査】都道府県性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001123791.xlsx,48KB
+医科診療行為,クロス表,【検査】血液学的検査判断料　都道府県性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001123793.xlsx,48KB
+医科診療行為,クロス表,【検査】血液採取（静脈）都道府県性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001123794.xlsx,34KB
+医科診療行為,クロス表,【検査】生化学的検査（１）判断料　都道府県性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001123795.xlsx,48KB
+医科診療行為,クロス表,【手術】都道府県性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122186.xlsx,41KB
+医科診療行為,クロス表,【オンライン診療】都道府県性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122187.xlsx,35KB
+歯科診療行為,A基本診療料,初再診料_性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122191.xlsx,44KB
+歯科診療行為,A基本診療料,初再診料_都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122198.xlsx,48KB
+歯科診療行為,A基本診療料,初再診料_診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122203.xlsx,34KB
+歯科診療行為,A基本診療料,初再診料_二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122204.xlsx,151KB
+歯科診療行為,A基本診療料,短期滞在手術等基本料_性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122405.xlsx,27KB
+歯科診療行為,A基本診療料,短期滞在手術等基本料_都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122406.xlsx,22KB
+歯科診療行為,A基本診療料,短期滞在手術等基本料_診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122407.xlsx,21KB
+歯科診療行為,A基本診療料,短期滞在手術等基本料_二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122408.xlsx,30KB
+歯科診療行為,A基本診療料,特定入院料_性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122410.xlsx,32KB
+歯科診療行為,A基本診療料,特定入院料_都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122415.xlsx,34KB
+歯科診療行為,A基本診療料,特定入院料_診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122431.xlsx,27KB
+歯科診療行為,A基本診療料,特定入院料_二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122432.xlsx,81KB
+歯科診療行為,A基本診療料,入院基本料_性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122433.xlsx,39KB
+歯科診療行為,A基本診療料,入院基本料_都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122434.xlsx,40KB
+歯科診療行為,A基本診療料,入院基本料_診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122435.xlsx,30KB
+歯科診療行為,A基本診療料,入院基本料_二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122436.xlsx,111KB
+歯科診療行為,A基本診療料,入院基本料等加算_性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122437.xlsx,57KB
+歯科診療行為,A基本診療料,入院基本料等加算_都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122447.xlsx,62KB
+歯科診療行為,A基本診療料,入院基本料等加算_診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122449.xlsx,39KB
+歯科診療行為,A基本診療料,入院基本料等加算_二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122450.xlsx,200KB
+歯科診療行為,B医学管理等,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122452.xlsx,56KB
+歯科診療行為,B医学管理等,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122453.xlsx,62KB
+歯科診療行為,B医学管理等,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122454.xlsx,40KB
+歯科診療行為,B医学管理等,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122472.xlsx,220KB
+歯科診療行為,C在宅医療,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122473.xlsx,41KB
+歯科診療行為,C在宅医療,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122474.xlsx,45KB
+歯科診療行為,C在宅医療,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122475.xlsx,31KB
+歯科診療行為,C在宅医療,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122476.xlsx,141KB
+歯科診療行為,D検査,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122482.xlsx,298KB
+歯科診療行為,D検査,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122483.xlsx,342KB
+歯科診療行為,D検査,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122496.xlsx,157KB
+歯科診療行為,D検査,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122506.xlsx,1.6MB
+歯科診療行為,E画像診断,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122508.xlsx,85KB
+歯科診療行為,E画像診断,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122517.xlsx,95KB
+歯科診療行為,E画像診断,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122518.xlsx,53KB
+歯科診療行為,E画像診断,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122519.xlsx,378KB
+歯科診療行為,F投薬,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122522.xlsx,34KB
+歯科診療行為,F投薬,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122523.xlsx,36KB
+歯科診療行為,F投薬,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122524.xlsx,29KB
+歯科診療行為,F投薬,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122525.xlsx,87KB
+歯科診療行為,G注射,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122526.xlsx,37KB
+歯科診療行為,G注射,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122527.xlsx,39KB
+歯科診療行為,G注射,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122528.xlsx,31KB
+歯科診療行為,G注射,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122529.xlsx,99KB
+歯科診療行為,Hリハビリテーション,性年齢別算定回数／単位数,https://www.mhlw.go.jp/content/12400000/001122530.xlsx,43KB
+歯科診療行為,Hリハビリテーション,都道府県別算定回数／単位数,https://www.mhlw.go.jp/content/12400000/001122531.xlsx,46KB
+歯科診療行為,Hリハビリテーション,診療月別算定回数／単位数,https://www.mhlw.go.jp/content/12400000/001122532.xlsx,37KB
+歯科診療行為,Hリハビリテーション,二次医療圏別算定回数／単位数,https://www.mhlw.go.jp/content/12400000/001122533.xlsx,105KB
+歯科診療行為,I処置,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122534.xlsx,77KB
+歯科診療行為,I処置,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122535.xlsx,87KB
+歯科診療行為,I処置,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122536.xlsx,49KB
+歯科診療行為,I処置,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122537.xlsx,369KB
+歯科診療行為,J手術,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001140543.xlsx,129KB
+歯科診療行為,J手術,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001140544.xlsx,146KB
+歯科診療行為,J手術,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001140545.xlsx,79KB
+歯科診療行為,J手術,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001140547.xlsx,690KB
+歯科診療行為,J輸血料,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122542.xlsx,34KB
+歯科診療行為,J輸血料,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122543.xlsx,35KB
+歯科診療行為,J輸血料,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122544.xlsx,29KB
+歯科診療行為,J輸血料,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122545.xlsx,86KB
+歯科診療行為,K麻酔,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122554.xlsx,50KB
+歯科診療行為,K麻酔,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122555.xlsx,54KB
+歯科診療行為,K麻酔,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122556.xlsx,37KB
+歯科診療行為,K麻酔,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122557.xlsx,178KB
+歯科診療行為,L放射線治療,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122558.xlsx,34KB
+歯科診療行為,L放射線治療,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122559.xlsx,36KB
+歯科診療行為,L放射線治療,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122560.xlsx,30KB
+歯科診療行為,L放射線治療,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122561.xlsx,88KB
+歯科診療行為,M歯冠修復及び欠損補綴,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122562.xlsx,148KB
+歯科診療行為,M歯冠修復及び欠損補綴,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122563.xlsx,172KB
+歯科診療行為,M歯冠修復及び欠損補綴,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122564.xlsx,84KB
+歯科診療行為,M歯冠修復及び欠損補綴,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122565.xlsx,835KB
+歯科診療行為,N歯科矯正,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122566.xlsx,66KB
+歯科診療行為,N歯科矯正,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122567.xlsx,76KB
+歯科診療行為,N歯科矯正,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122568.xlsx,46KB
+歯科診療行為,N歯科矯正,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122569.xlsx,279KB
+歯科診療行為,O病理診断,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122570.xlsx,42KB
+歯科診療行為,O病理診断,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122571.xlsx,45KB
+歯科診療行為,O病理診断,診療月別算定回数,https://www.mhlw.go.jp/content/12400000/001122572.xlsx,33KB
+歯科診療行為,O病理診断,二次医療圏別算定回数,https://www.mhlw.go.jp/content/12400000/001122573.xlsx,128KB
+調剤行為,,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122574.xlsx,60KB
+調剤行為,,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122575.xlsx,68KB
+歯科傷病,,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122576.xlsx,56KB
+歯科傷病,,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122577.xlsx,62KB
+処方薬,内服,外来（院外）性年齢別薬効分類別数量,https://www.mhlw.go.jp/content/12400000/001122626.xlsx,1.8MB
+処方薬,内服,外来（院外）都道府県別薬効分類別数量,https://www.mhlw.go.jp/content/12400000/001122627.xlsx,2.0MB
+処方薬,内服,外来（院内）性年齢別薬効分類別数量,https://www.mhlw.go.jp/content/12400000/001122628.xlsx,1.7MB
+処方薬,内服,外来（院内）都道府県別薬効分類別数量,https://www.mhlw.go.jp/content/12400000/001122629.xlsx,1.8MB
+処方薬,内服,入院　性年齢別薬効分類別数量,https://www.mhlw.go.jp/content/12400000/001122630.xlsx,1.5MB
+処方薬,内服,入院　都道府県別薬効分類別数量,https://www.mhlw.go.jp/content/12400000/001122631.xlsx,1.7MB
+処方薬,外用,性年齢別薬効分類別数量,https://www.mhlw.go.jp/content/12400000/001122632.xlsx,1.4MB
+処方薬,外用,都道府県別薬効分類別数量,https://www.mhlw.go.jp/content/12400000/001122633.xlsx,1.5MB
+処方薬,注射,性年齢別薬効分類別数量,https://www.mhlw.go.jp/content/12400000/001122634.xlsx,2.2MB
+処方薬,注射,都道府県別薬効分類別数量,https://www.mhlw.go.jp/content/12400000/001122635.xlsx,2.4MB
+処方薬,医科,【内服】外来（院外）性年齢別薬効分類別数量　医科,https://www.mhlw.go.jp/content/12400000/001122636.xlsx,51KB
+処方薬,医科,【内服】外来（院外）都道府県別薬効分類別数量　医科,https://www.mhlw.go.jp/content/12400000/001122637.xlsx,55KB
+処方薬,歯科,【内服】外来（院外）性年齢別薬効分類別数量　歯科,https://www.mhlw.go.jp/content/12400000/001122638.xlsx,44KB
+処方薬,歯科,【内服】外来（院外）都道府県別薬効分類別数量　歯科,https://www.mhlw.go.jp/content/12400000/001122639.xlsx,47KB
+処方薬,歯科,【歯科用薬剤】性年齢別薬効分類別数量　歯科,https://www.mhlw.go.jp/content/12400000/001122640.xlsx,43KB
+処方薬,歯科,【歯科用薬剤】都道府県別薬効分類別数量　歯科,https://www.mhlw.go.jp/content/12400000/001122641.xlsx,45KB
+特定保険医療材料,,性年齢別算定回数,https://www.mhlw.go.jp/content/12400000/001122578.xlsx,399KB
+特定保険医療材料,,都道府県別算定回数,https://www.mhlw.go.jp/content/12400000/001122579.xlsx,467KB
+特定健診　検査,,BMI  都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122669.xlsx,58KB
+特定健診　検査,,BMI  二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122670.xlsx,290KB
+特定健診　検査,,GOT（AST） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122671.xlsx,37KB
+特定健診　検査,,GOT（AST） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122672.xlsx,143KB
+特定健診　検査,,GPT（ALT） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122673.xlsx,37KB
+特定健診　検査,,GPT（ALT） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122674.xlsx,145KB
+特定健診　検査,,HbA1c 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122675.xlsx,53KB
+特定健診　検査,,HbA1c 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122677.xlsx,252KB
+特定健診　検査,,HDLコレステロール 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122679.xlsx,36KB
+特定健診　検査,,HDLコレステロール 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122682.xlsx,140KB
+特定健診　検査,,LDLコレステロール 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122684.xlsx,54KB
+特定健診　検査,,LDLコレステロール 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122685.xlsx,260KB
+特定健診　検査,,γ-GT（γ-GTP） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122687.xlsx,37KB
+特定健診　検査,,γ-GT（γ-GTP） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122689.xlsx,145KB
+特定健診　検査,,ヘモグロビン 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122699.xlsx,35KB
+特定健診　検査,,ヘモグロビン 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001123241.xlsx,140KB
+特定健診　検査,,各項目の平均値 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001123242.xlsx,192KB
+特定健診　検査,,各項目の平均値 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001123243.xlsx,1.2MB
+特定健診　検査,,拡張期血圧 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001123244.xlsx,53KB
+特定健診　検査,,拡張期血圧 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001123245.xlsx,256KB
+特定健診　検査,,眼底検査（SCOTT分類) 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122850.xlsx,47KB
+特定健診　検査,,眼底検査（SCOTT分類) 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122851.xlsx,238KB
+特定健診　検査,,眼底検査（キースワグナー分類） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122852.xlsx,42KB
+特定健診　検査,,眼底検査（キースワグナー分類） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122853.xlsx,183KB
+特定健診　検査,,眼底検査（シェイエ分類：H） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122855.xlsx,38KB
+特定健診　検査,,眼底検査（シェイエ分類：H） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122856.xlsx,157KB
+特定健診　検査,,眼底検査（シェイエ分類：S） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122857.xlsx,38KB
+特定健診　検査,,眼底検査（シェイエ分類：S） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122858.xlsx,157KB
+特定健診　検査,,眼底検査（Wong-Mitchell分類) 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122860.xlsx,33KB
+特定健診　検査,,眼底検査（Wong-Mitchell分類) 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122865.xlsx,124KB
+特定健診　検査,,眼底検査（改変Davis分類） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122866.xlsx,33KB
+特定健診　検査,,眼底検査（改変Davis分類） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122867.xlsx,125KB
+特定健診　検査,,空腹時血糖 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122880.xlsx,43KB
+特定健診　検査,,空腹時血糖 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122881.xlsx,183KB
+特定健診　検査,,随時血糖 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122884.xlsx,40KB
+特定健診　検査,,随時血糖 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122889.xlsx,158KB
+特定健診　検査,,収縮期血圧 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122895.xlsx,54KB
+特定健診　検査,,収縮期血圧 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122896.xlsx,259KB
+特定健診　検査,,中性脂肪 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122897.xlsx,37KB
+特定健診　検査,,中性脂肪 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122898.xlsx,144KB
+特定健診　検査,,尿蛋白 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122899.xlsx,46KB
+特定健診　検査,,尿蛋白 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122900.xlsx,207KB
+特定健診　検査,,尿糖 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122901.xlsx,46KB
+特定健診　検査,,尿糖 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122902.xlsx,203KB
+特定健診　検査,,腹囲 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122903.xlsx,38KB
+特定健診　検査,,腹囲 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122904.xlsx,147KB
+特定健診　検査,,血清クレアチニン 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122905.xlsx,41KB
+特定健診　検査,,血清クレアチニン 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122906.xlsx,172KB
+特定健診　検査,,eGFR  都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122914.xlsx,185KB
+特定健診　検査,,eGFR  二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122914.xlsx,185KB
+特定健診　検査,,心電図 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122915.xlsx,29KB
+特定健診　検査,,心電図 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001122916.xlsx,91KB
+特定健診　検査,,ヘモグロビン 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001260985.xlsx,38KB
+特定健診　検査,,ヘモグロビン 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001260986.xlsx,163KB
+特定健診　検査,,各項目の平均値 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001260987.xlsx,57KB
+特定健診　検査,,各項目の平均値 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001260990.xlsx,250KB
+特定健診　検査,,眼底検査（SCOTT分類) 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001260992.xlsx,50KB
+特定健診　検査,,眼底検査（SCOTT分類) 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001260996.xlsx,246KB
+特定健診　検査,,眼底検査（キースワグナー分類） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261003.xlsx,45KB
+特定健診　検査,,眼底検査（キースワグナー分類） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261004.xlsx,204KB
+特定健診　検査,,眼底検査（シェイエ分類：H） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261011.xlsx,42KB
+特定健診　検査,,眼底検査（シェイエ分類：H） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261013.xlsx,175KB
+特定健診　検査,,眼底検査（シェイエ分類：S） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261017.xlsx,42KB
+特定健診　検査,,眼底検査（シェイエ分類：S） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261025.xlsx,175KB
+特定健診　検査,,眼底検査（Wong-Mitchell分類） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261028.xlsx,35KB
+特定健診　検査,,眼底検査（Wong-Mitchell分類） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261030.xlsx,132KB
+特定健診　検査,,眼底検査（改変Davis分類） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261032.xlsx,35KB
+特定健診　検査,,眼底検査（改変Davis分類） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261034.xlsx,133KB
+特定健診　検査,,血清クレアチニン 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261036.xlsx,44KB
+特定健診　検査,,血清クレアチニン 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261039.xlsx,188KB
+特定健診　検査,,eGFR 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261041.xlsx,46KB
+特定健診　検査,,eGFR 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261051.xlsx,206KB
+特定健診　検査,,心電図 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261054.xlsx,32KB
+特定健診　検査,,心電図 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261057.xlsx,105KB
+特定健診　検査,,CGA分類 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001261061.xlsx,95KB
+特定健診　検査,,CGA分類 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001264095.xlsx,510KB
+特定健診　質問票,,標準的な質問票（質問項目１） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259014.xlsx,34KB
+特定健診　質問票,,標準的な質問票（質問項目１） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259015.xlsx,113KB
+特定健診　質問票,,標準的な質問票（質問項目２） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259016.xlsx,34KB
+特定健診　質問票,,標準的な質問票（質問項目２） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259017.xlsx,111KB
+特定健診　質問票,,標準的な質問票（質問項目３） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259018.xlsx,34KB
+特定健診　質問票,,標準的な質問票（質問項目３） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259019.xlsx,112KB
+特定健診　質問票,,標準的な質問票（質問項目４） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259020.xlsx,33KB
+特定健診　質問票,,標準的な質問票（質問項目４） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259021.xlsx,110KB
+特定健診　質問票,,標準的な質問票（質問項目５） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259022.xlsx,33KB
+特定健診　質問票,,標準的な質問票（質問項目５） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259023.xlsx,110KB
+特定健診　質問票,,標準的な質問票（質問項目６） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259024.xlsx,33KB
+特定健診　質問票,,標準的な質問票（質問項目６） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259025.xlsx,108KB
+特定健診　質問票,,標準的な質問票（質問項目７） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259026.xlsx,34KB
+特定健診　質問票,,標準的な質問票（質問項目７） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259027.xlsx,111KB
+特定健診　質問票,,標準的な質問票（質問項目８） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259028.xlsx,34KB
+特定健診　質問票,,標準的な質問票（質問項目８） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259029.xlsx,113KB
+特定健診　質問票,,標準的な質問票（質問項目９） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259031.xlsx,34KB
+特定健診　質問票,,標準的な質問票（質問項目９） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259032.xlsx,112KB
+特定健診　質問票,,標準的な質問票（質問項目１０） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259033.xlsx,34KB
+特定健診　質問票,,標準的な質問票（質問項目１０） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259034.xlsx,113KB
+特定健診　質問票,,標準的な質問票（質問項目１１） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259035.xlsx,34KB
+特定健診　質問票,,標準的な質問票（質問項目１１） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259037.xlsx,112KB
+特定健診　質問票,,標準的な質問票（質問項目１２） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259038.xlsx,34KB
+特定健診　質問票,,標準的な質問票（質問項目１２） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259039.xlsx,112KB
+特定健診　質問票,,標準的な質問票（質問項目１３） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259040.xlsx,39KB
+特定健診　質問票,,標準的な質問票（質問項目１３） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259041.xlsx,150KB
+特定健診　質問票,,標準的な質問票（質問項目１４） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259042.xlsx,40KB
+特定健診　質問票,,標準的な質問票（質問項目１４） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259043.xlsx,153KB
+特定健診　質問票,,標準的な質問票（質問項目１５） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259044.xlsx,34KB
+特定健診　質問票,,標準的な質問票（質問項目１５） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259046.xlsx,112KB
+特定健診　質問票,,標準的な質問票（質問項目１６） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259047.xlsx,40KB
+特定健診　質問票,,標準的な質問票（質問項目１６） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259048.xlsx,154KB
+特定健診　質問票,,標準的な質問票（質問項目１７） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259049.xlsx,34KB
+特定健診　質問票,,標準的な質問票（質問項目１７） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259052.xlsx,112KB
+特定健診　質問票,,標準的な質問票（質問項目１８） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259053.xlsx,40KB
+特定健診　質問票,,標準的な質問票（質問項目１８） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259054.xlsx,155KB
+特定健診　質問票,,標準的な質問票（質問項目１９） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259056.xlsx,45KB
+特定健診　質問票,,標準的な質問票（質問項目１９） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259061.xlsx,192KB
+特定健診　質問票,,標準的な質問票（質問項目２０） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259063.xlsx,34KB
+特定健診　質問票,,標準的な質問票（質問項目２０） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259064.xlsx,112KB
+特定健診　質問票,,標準的な質問票（質問項目２１） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259066.xlsx,51KB
+特定健診　質問票,,標準的な質問票（質問項目２１） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259068.xlsx,229KB
+特定健診　質問票,,標準的な質問票（質問項目２２） 都道府県別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259069.xlsx,34KB
+特定健診　質問票,,標準的な質問票（質問項目２２） 二次医療圏別性年齢階級別分布,https://www.mhlw.go.jp/content/12400000/001259071.xlsx,112KB

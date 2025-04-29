@@ -1,0 +1,10 @@
+﻿id,url,title,csv
+01,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000139390.html,第1回NDBオープンデータ,ndb-opendata-01.csv
+02,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177221.html,第2回NDBオープンデータ,ndb-opendata-02.csv
+03,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177221_00002.html,第3回NDBオープンデータ,ndb-opendata-03.csv
+04,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177221_00003.html,第4回NDBオープンデータ,ndb-opendata-04.csv
+05,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177221_00008.html,第5回NDBオープンデータ,ndb-opendata-05.csv
+06,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177221_00010.html,第6回NDBオープンデータ,ndb-opendata-06.csv
+07,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177221_00011.html,第7回NDBオープンデータ,ndb-opendata-07.csv
+08,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177221_00012.html,第8回NDBオープンデータ,ndb-opendata-08.csv
+09,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177221_00014.html,第9回NDBオープンデータ,ndb-opendata-09.csv
