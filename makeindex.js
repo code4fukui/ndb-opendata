@@ -28,4 +28,4 @@ const items = as
 
 // 一覧をCSVファイルとして保存
 console.log(items, items.length);
-await Deno.writeTextFile("index.csv", CSV.stringify(items));
+await Deno.writeTextFile("ndb-opendata.csv", CSV.stringify(items));
