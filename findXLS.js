@@ -21,14 +21,17 @@ const extractFilename = (url) => {
   return url.substring(n + 1);
 };
 
-const keyword = "糖尿病";
-const list = await CSV.fetchJSON("ndb-opendata-09.csv");
-for (const item of list) {
-  const fn = "download/09/" + extractFilename(item.url);
-  //console.log(fn)
-  //await xlsx2csv(fn);
-  const res = await findXLS(fn, keyword);
-  if (res.length > 0) {
-    console.log(item.category1, item.category2, item.title, res);
+const keyword = Deno.args[0] ?? "糖尿病";
+const idx = await CSV.fetchJSON("index.csv");
+for (const i of idx) {
+  const list = await CSV.fetchJSON(i.csv); // "ndb-opendata-09.csv");
+  for (const item of list) {
+    const fn = "download/" + i.id + "/" + extractFilename(item.url);
+    //console.log(fn)
+    //await xlsx2csv(fn);
+    const res = await findXLS(fn, keyword);
+    if (res.length > 0) {
+      console.log(item.category1, item.category2, item.title, res);
+    }
   }
 }
