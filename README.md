@@ -1,4 +1,5 @@
 # NDB Opendata
+日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
 NDBオープンデータ、スクレイピング＆ダウンロード in JavaScript/Deno
 
@@ -7,3 +8,6 @@ NDBオープンデータ、スクレイピング＆ダウンロード in JavaScr
 ## reference
 
 - [【NDB】NDBオープンデータ｜厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177182.html)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
